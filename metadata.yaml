@@ -1,0 +1,35 @@
+_repo: What-s-Wrong-with-the-World_1717
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: In What's Wrong With The World Chesterton rightly points out that what
+  people see as ""wrong with the world"" are only the symptoms of a deeper problem.
+  He shows that our governments, be they capitalistic or socialistic, also fail to
+  see the deeper problem. With a keen wit and lively prose he cuts directly to the
+  true problems that society must deal with and his solutions feel utterly correct.
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems'
+- !lcc 'HN'
+- GITenberg
+tableOfContents: The homelessness of man -- Imperialism, or the mistake about man
+  -- Feminism, or the mistake about woman -- Education, or the mistake about the child
+  -- The home of man -- Three notes.
+title: What's Wrong with the World
+url: http://www.gutenberg.org/ebooks/1717
